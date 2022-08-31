@@ -1,0 +1,9 @@
+# Time:2022/8/26 14:46
+# Author:CAOZHENG
+# File:data.yml
+
+By.id : su
+msg : selenium
+title : selenium_百度搜索
+data :
+  username : zcao
